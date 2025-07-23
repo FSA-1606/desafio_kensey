@@ -1,0 +1,8 @@
+# Nmap 7.95 scan initiated Fri Jul 18 16:55:37 2025 as: /usr/lib/nmap/nmap -sn -oG active_hosts_10.10.10.0_24.txt 10.10.10.0/24
+Host: 10.10.10.1 (fsa)	Status: Up
+Host: 10.10.10.10 (WS_001.projeto_final_opcao_1_corp_net)	Status: Up
+Host: 10.10.10.101 (WS_002.projeto_final_opcao_1_corp_net)	Status: Up
+Host: 10.10.10.127 (WS_003.projeto_final_opcao_1_corp_net)	Status: Up
+Host: 10.10.10.222 (WS_004.projeto_final_opcao_1_corp_net)	Status: Up
+Host: 10.10.10.2 (361dee263e0e)	Status: Up
+# Nmap done at Fri Jul 18 16:55:39 2025 -- 256 IP addresses (6 hosts up) scanned in 2.12 seconds

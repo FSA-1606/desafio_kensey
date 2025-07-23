@@ -1,0 +1,16 @@
+# Nmap 7.95 scan initiated Fri Jul 18 16:56:09 2025 as: /usr/lib/nmap/nmap -sV -p 22,80,139,443,445,3306,3389 -oN scan_ports_10.10.50.4.txt 10.10.50.4
+Nmap scan report for notebook-carlos.projeto_final_opcao_1_guest_net (10.10.50.4)
+Host is up (0.000072s latency).
+
+PORT     STATE  SERVICE       VERSION
+22/tcp   closed ssh
+80/tcp   closed http
+139/tcp  closed netbios-ssn
+443/tcp  closed https
+445/tcp  closed microsoft-ds
+3306/tcp closed mysql
+3389/tcp closed ms-wbt-server
+MAC Address: C6:35:02:6E:E3:4D (Unknown)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Jul 18 16:56:10 2025 -- 1 IP address (1 host up) scanned in 0.53 seconds

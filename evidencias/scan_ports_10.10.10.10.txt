@@ -1,0 +1,17 @@
+# Nmap 7.95 scan initiated Fri Jul 18 16:55:39 2025 as: /usr/lib/nmap/nmap -sV -p 22,80,139,443,445,3306,3389 -oN scan_ports_10.10.10.10.txt 10.10.10.10
+Nmap scan report for WS_001.projeto_final_opcao_1_corp_net (10.10.10.10)
+Host is up (0.000048s latency).
+
+PORT     STATE  SERVICE       VERSION
+22/tcp   open   ssh           OpenSSH 9.6p1 Ubuntu 3ubuntu13.12 (Ubuntu Linux; protocol 2.0)
+80/tcp   closed http
+139/tcp  closed netbios-ssn
+443/tcp  closed https
+445/tcp  closed microsoft-ds
+3306/tcp closed mysql
+3389/tcp closed ms-wbt-server
+MAC Address: 46:73:A7:C1:A6:67 (Unknown)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Jul 18 16:55:40 2025 -- 1 IP address (1 host up) scanned in 0.49 seconds
