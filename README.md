@@ -1,4 +1,4 @@
-# 🛡️ Relatório de Pentest – Kensey Cibersecurity
+# 🛡️ Relatório de Mapeamento, Inventario e Scan de Redes – Kensey Cibersecurity
 
 Este repositório contém o relatório técnico de análise da rede interna da empresa **Kensey Cibersecurity**, conduzido pela equipe da **Metafox Info**.
 
