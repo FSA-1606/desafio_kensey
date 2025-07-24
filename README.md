@@ -20,7 +20,6 @@ desafio_kensey/
 
 ## 📎 Anexos e Evidências
 
-- 📄 [Relatório Principal (DOCX)](https://github.com/FSA-1606/desafio_kensey/blob/main/relatorios/Relatorio_Pentest_Interno_V1.docx?raw=true)
 - 📊 [CVEs Recomendadas (XLSX)](https://github.com/FSA-1606/desafio_kensey/blob/main/cves/CVEs_recomendadas_relatorio_pentest.xlsx?raw=true)
 - 📸 [Imagens de Evidências Nmap/Rustscan](https://github.com/FSA-1606/desafio_kensey/tree/main/imagens)
 - 📁 [Planilhas de Sub-redes e Inventário](https://github.com/FSA-1606/desafio_kensey/tree/main/planilhas)
