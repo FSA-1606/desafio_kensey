@@ -19,6 +19,7 @@ desafio_kensey/
 ```
 
 
+
 ## 📎 Anexos e Evidências
 
 - 📄 [Relatório Pentest Interno V2 (DOCX)](https://github.com/FSA-1606/desafio_kensey_cybersecurity/blob/main/relatorios/Relatorio%20Pentest%20Interno_V2.docx?raw=true)
@@ -42,6 +43,7 @@ Elaborado por **Fernando Silva Andrade**, Analista de Segurança da Metafox Info
 ---
 
 © 2025 Metafox Info – Todos os direitos reservados.
+
 
 ## 🧪 Objetivo
 
