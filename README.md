@@ -7,7 +7,7 @@ Este repositório contém o relatório técnico de análise da rede interna da e
 ```
 desafio_kensey/
 ├── relatorios/
-│   └── Relatorio_Pentest_Interno_V1.docx
+│   └── Relatorio_Pentest_Interno_V2.docx
 ├── cves/
 │   └── CVEs_recomendadas_relatorio_pentest.xlsx
 ├── imagens/
