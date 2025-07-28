@@ -46,9 +46,6 @@ Elaborado por **Fernando Silva Andrade**, Analista de Segurança da Metafox Info
 © 2025 Metafox Info – Todos os direitos reservados.
 
 
-© 2025 Metafox Info – Todos os direitos reservados.
-
-
 ## 🧪 Objetivo
 
 - Mapear ativos e sub-redes acessíveis
