@@ -44,22 +44,3 @@ Elaborado por **Fernando Silva Andrade**, Analista de Segurança da Metafox Info
 ---
 
 © 2025 Metafox Info – Todos os direitos reservados.
-
-
-## 🧪 Objetivo
-
-- Mapear ativos e sub-redes acessíveis
-- Avaliar serviços e exposição de portas
-- Diagnosticar falhas de configuração
-- Propor um plano de ação 80/20 para mitigação de riscos
-
-## 🔐 Entregável
-
-Elaborado por **Fernando Silva Andrade**, Analista de Segurança da Metafox Info  
-📅 Julho de 2025
-
----
-
-© 2025 Metafox Info – Todos os direitos reservados.
-
-
